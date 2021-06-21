@@ -1,0 +1,50 @@
+.float-right
+{
+    float: right;
+}
+.abc
+{
+    margin: 10% 8% 0% 8%;
+    background-color: orange;
+    border: 2px solid black;
+}
+p
+{
+    color: red;
+}
+body
+{
+    background-color: grey;
+}
+.list
+{
+    border-bottom: 1px solid black;
+}
+.dec
+{
+    background-color: honeydew;
+    border: 1px solid black;
+    list-style: none;
+    margin: 1% 10% 0% 10%;
+    padding: 1%;
+}
+.hea
+{
+   text-align: center;
+}
+.features
+{
+    background-color: blue;
+    border-radius: 10%;
+    margin: 0% 50% 0% 50%;
+    width: 7%;
+}
+.buttons
+{
+    margin: 0% 30% 0% 30%;
+}
+.btn
+{
+    margin-left: 2%;
+    margin-bottom: 2%;
+}

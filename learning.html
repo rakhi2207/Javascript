@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>DOM</title>
+    <script type="text/javascript">
+        function f1()
+        {
+            document.getElementById("i1").src="images/sun.jpeg";
+            document.getElementById("i2").src="images/bloom.png";
+        }
+        function f2()
+        {
+            document.getElementById("i1").src="images/images.jpeg";
+            document.getElementById("i2").src="images/flower.png";
+        }
+    </script>
+</head>
+<body>
+<style>
+    .image
+    {
+        width:15%;
+        margin-left: 40%;
+    }
+</style>
+<img id="i1" class="image" onmouseover="f1()" onmouseout="f2()" src="images/images.jpeg">
+<img id="i2" class="image" onmouseover="f1()" onmouseout="f2()" src="images/flower.png">
+</body>
+</html>
