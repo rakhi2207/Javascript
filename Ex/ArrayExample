@@ -1,0 +1,3 @@
+const dress=['Pajma','Kurta','Saree','Suit']
+
+dress.forEach(dress=>{console.log(dress)});

@@ -1,1 +1,8 @@
-I am F1
+[
+    {
+        "name":"Rakhi"
+    },
+    {
+         "name":"Rakhi1"
+    }
+]
